@@ -1,0 +1,50 @@
+body {
+  background-color: #121116;
+  text-align: center;
+  margin: 0px;
+}
+
+.logo {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.we-are {
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  color: #ffffff;
+  margin: 0px;
+  padding: 0px;
+  display: block;
+}
+
+.separator {
+  margin: 0%;
+  padding: 0%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.social-media img {
+  padding: 0 15px 0 15px;
+}
+
+.copyright {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  color: #ffffff;
+  margin-top: 75px;
+}
+
+.all-right {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+span {
+  color: #00c7fc;
+}
